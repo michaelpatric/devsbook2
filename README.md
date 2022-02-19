@@ -1,5 +1,6 @@
 ## Instalação
 Você pode clonar este repositório OU baixar o .zip
+teste
 
 Ao descompactar, é necessário rodar o **composer** pra instalar as dependências e gerar o *autoload*.
 
